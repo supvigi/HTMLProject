@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(126, 90, 0);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+h1 {
+    color: Orange;
+}
+p {
+    color: white;
+}
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
